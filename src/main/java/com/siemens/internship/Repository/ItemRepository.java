@@ -1,5 +1,6 @@
-package com.siemens.internship;
+package com.siemens.internship.Repository;
 
+import com.siemens.internship.Domain.Item;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

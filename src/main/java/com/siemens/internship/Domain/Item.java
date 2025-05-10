@@ -1,4 +1,4 @@
-package com.siemens.internship;
+package com.siemens.internship.Domain;
 
 import jakarta.persistence.*;
 

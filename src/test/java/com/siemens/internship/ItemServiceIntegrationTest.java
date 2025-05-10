@@ -1,5 +1,8 @@
 package com.siemens.internship;
 
+import com.siemens.internship.Domain.Item;
+import com.siemens.internship.Repository.ItemRepository;
+import com.siemens.internship.Service.ItemService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.*;

@@ -1,5 +1,7 @@
 package com.siemens.internship;
 
+import com.siemens.internship.Domain.Item;
+import com.siemens.internship.Repository.ItemRepository;
 import jakarta.validation.ConstraintViolationException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
